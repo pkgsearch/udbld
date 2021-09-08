@@ -6,7 +6,7 @@ print('''
 ║║─║║║║║║╚═╦╣║╔═╝║
 ║║─║║║║║║╔╗╠╣║║╔╗║
 ║╚═╝╠╝╚╝║╚╝║║╚╣╚╝║
-╚═══╩═══╩══╩╩═╩══╝''')
+╚═══╩═══╩══╩╩═╩══╝ by pkgsearch''')
 url = input("Введите url: ")
 os.system("clear")
 print('''from bs4 import BeautifulSoup
